@@ -1,5 +1,2 @@
----
-- hosts: web
-  become: yes
-  roles:
-  - nginx
+- include: base.yml
+- include: service.yml
