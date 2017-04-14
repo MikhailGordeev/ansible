@@ -1,2 +1,7 @@
 - include: base.yml
 - include: service.yml
+
+- hosts: web
+  become: true
+  roles:
+    - ragingbal.java8
