@@ -1,2 +1,2 @@
 [web]
-ans001_mikhail ansible_host=52.214.4.133 ansible_user=ubuntu ansible_private_key_file=id_rsa_ansible-2017-apr
+ans001_mikhail ansible_host=52.208.66.84 ansible_user=ubuntu ansible_private_key_file=id_rsa_ansible-2017-apr
