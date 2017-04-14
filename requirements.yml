@@ -4,3 +4,4 @@
 - src: ANXS.postgresql
 - src: ragingbal.java8
 - src: ragingbal.tomcat
+- src: dj-wasabi.zabbix-agent
