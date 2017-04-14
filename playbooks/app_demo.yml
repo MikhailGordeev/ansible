@@ -5,3 +5,5 @@
   become: true
   roles:
     - ragingbal.java8
+    - jdauphant.nginx
+    - ragingbal.tomcat
