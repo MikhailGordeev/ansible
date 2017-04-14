@@ -1,3 +1,4 @@
+- include: monitoring.yml
 - hosts: all
   become: true
   roles:
