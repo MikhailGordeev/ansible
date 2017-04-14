@@ -1,1 +1,3 @@
 food: sushi
+tomcat_webapps_dir: /opt/apache-tomcat-7.0.61/webapps
+jpetstore_version: 2
